@@ -10,12 +10,14 @@ This repository contains the code and resources for the Zulo Bank Data Engineeri
 - **Data Quality Assurance**: Techniques to ensure the accuracy, consistency, and reliability of financial data.
 
 ## Project Structure
-- **`zulo_bank_notebook.ipynb`**: Jupyter Notebook containing the full data engineering workflow, including data extraction, transformation, loading, and analysis.
-- **`data/`**: Directory containing raw and processed data files.
-- **`scripts/`**: Python scripts for data processing, ETL, and automation.
-- **`config/`**: Configuration files for database connections, API keys, and other project settings.
+- **`dataset/`**: Directory containing raw and processed data files.
+- **`.gitattributes`**: Git attributes file for managing repository settings.
 - **`README.md`**: Documentation of the project.
-- **`requirements.txt`**: List of Python packages required to run the project.
+- **`loan_datawarehouse_model.PNG`**: Image of the loan data warehouse model designed for the dataset.
+- **`transaction_datawarehouse_model.PNG`**: Image of the transaction data warehouse model designed for the dataset.
+- **`zulo_bank_notebook.ipynb`**: Jupyter Notebook containing the full data engineering workflow, including data extraction, transformation, loading, and analysis.
+- **`zumo_bank_database_model.PNG`**: Image of the database model designed for the dataset.
+
 
 ## Getting Started
 
